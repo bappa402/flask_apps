@@ -1,3 +1,2 @@
-flask
-gunicorn
-sqlite3
+flask==3.0.0
+gunicorn==23.0.0
